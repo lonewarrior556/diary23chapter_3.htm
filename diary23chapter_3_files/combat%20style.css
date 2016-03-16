@@ -1,0 +1,33 @@
+a:hover      { color: #FF0000; font-family: Arial; font-size: 12pt; font-weight: bold }
+a:active     { color: #000000; font-size: 12pt; font-weight: bold; font-family:Arial }
+a            { font-family: Arial; text-decoration: none; font-size: 10pt; font-weight: bold; text-align:justify; line-height:150% }
+ADDRESS {
+	FONT-SIZE: 10pt; FONT-FAMILY: Arial; font-weight:bold
+}
+body         { font-size: 10pt; color: #000000; font-family: Arial; text-align: justify; font-weight:bold; line-height:150% }
+td           { font-weight: bold; font-size: 10pt; font-family: Arial; text-align:justify; line-height:150% }
+DL {
+	FONT-SIZE: 10pt; COLOR: #00D405; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, SunSans-Regular
+}
+h1           { font-size: 14pt; font-family: Verdana; color: #000000 }
+h2           { font-weight: bold; font-size: 12pt; color: #000000; font-style: normal; 
+               font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+h3           { font-weight: bold; font-size: 10pt; color: #000000; font-style: normal; 
+               font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+INPUT {
+	FONT-SIZE: 9pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, SunSans-Regular
+}
+OL {
+	FONT-SIZE: 9pt; COLOR: #00d405; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, SunSans-Regular
+}
+OPTION {
+	FONT-SIZE: 9pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, SunSans-Regular
+}
+p            { font-size: 10pt; color: #000000; font-family: Arial }
+pre          { font-size: 10pt; font-family: Arial; text-align: Left }
+SELECT {
+	FONT-SIZE: 9pt; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, SunSans-Regular
+}
+ul           { font-size: 10pt; color: #FF0000; font-family: 
+               Arial, Helvetica, Geneva, Swiss, SunSans-Regular; font-weight:bold }a:visited    { font-size: 12pt; font-family: Arial; font-weight: bold }
+a:link       { font-family: Arial; font-size: 12pt; font-weight: bold }
